@@ -1,0 +1,10 @@
+main: net.simplyrin.originalworld.Main
+name: OriginalWorld
+version: 1.0
+author: SimplyRin
+depend: ["MultiWorld"]
+commands:
+  originalworld:
+    description: "OriginalWorld Command"
+  ow:
+    description: "OriginalWorld Command"
